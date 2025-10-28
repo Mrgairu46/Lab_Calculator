@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">Lab Calculator</string>
+    <string name="app_name">Calculator App</string>
+    <string name="initial_value">0</string>
+
+    <!-- Operation Buttons -->
+    <string name="clear">C</string>
+    <string name="back">⌫</string>
+    <string name="plus_minus">±</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="subtract">-</string>
+    <string name="add">+</string>
+    <string name="square_root">√</string>
+    <string name="equals">=</string>
+    <string name="decimal">.</string>
+
+    <!-- Number Buttons -->
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <!-- Error Messages -->
+    <string name="error_divide_by_zero">Cannot divide by zero</string>
+    <string name="error_invalid_sqrt">Invalid input for square root</string>
 </resources>
